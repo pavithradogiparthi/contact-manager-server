@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "id": "0c58d83f-1244-4234-95c8-a9029b565289",
+      "name": "Harsha Vardhan Kumar Gopisetti",
+      "email": "harshagopisetti@gmail.com"
+    },
+    {
+      "id": "136de547-ac28-4e80-b2c5-25c89d231de5",
+      "name": "Harsha Vardhan Kumar Gopisetti",
+      "email": "harshagopisetti@gmail.com"
+    },
+    {
+      "id": "0ce38310-73fb-4550-8644-4b215017c69d",
+      "name": "Harsha Gopisetti",
+      "email": "harshavk.gopisetti@gmail.com"
+    },
+    {
+      "id": "b27edf43-80b1-43d9-a994-5b3b151c2f6f",
+      "name": "Hero G",
+      "email": "herog@gmail.com"
+    }
+  ]
+}
